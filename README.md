@@ -1,16 +1,19 @@
-## Hi there 👋
+### Oii, eu sou a Isa :D
 
-<!--
-**isconsani/isconsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou uma Desenvolvedora Full Stack!
 
-Here are some ideas to get you started:
+- 🌱 Estou expandindo meus conhecimentos em C# | ASP.NET Core | SQL Server | Javascript 
+- 🧹 Sou defensora de boas práticas e princípios de código limpo
+- 💻 Apaixonada por aprender novas tecnologias e transformar ideias em soluções 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conecte-se comigo:
+<div>
+  <a href="https://www.linkedin.com/in/isabella-consani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div align="center">
+<img width="450em" alt="Status Github Isa" src="https://github-readme-stats.vercel.app/api?username=isconsani&show_icons=true&theme=dracula" />
+<img width="380em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isconsani&layout=compact&theme=dracula"/>
+</div>
+
+![Snake animation](https://github.com/rodrigofurlaneti/rodrigofurlaneti/blob/main/github-contribution-grid-snake-dark.svg)
