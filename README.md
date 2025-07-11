@@ -1,6 +1,9 @@
-### Oii, eu sou a Isa :D
+## Oii, eu sou a Isa :D
 
-## Sou uma Desenvolvedora Full Stack!
+### Sou Desenvolvedora Full Stack!
+### Não sou muito ativa aqui mas aos poucos vou mudando isso 
+
+### Aqui vai um pouco sobre mim:
 
 - 🌱 Estou expandindo meus conhecimentos em C# | ASP.NET Core | SQL Server | Javascript 
 - 🧹 Sou defensora de boas práticas e princípios de código limpo
