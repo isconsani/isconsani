@@ -2,7 +2,7 @@
 
 ### Sou Desenvolvedora Full Stack!
 
-- 🌱 Estou expandindo meus conhecimentos em C# | ASP.NET Core | SQL Server | Javascript 
+- 🌱 Atualmente trabalho com C# | ASP.NET Core | SQL Server | Javascript 
 - 🧹 Sou defensora de boas práticas e princípios de código limpo
 - 💻 Apaixonada por aprender novas tecnologias e transformar ideias em soluções 
 
